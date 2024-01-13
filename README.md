@@ -7,4 +7,5 @@ Hi! My name is Ricardo, I'm software developer and I'm from Barcelona. One thing
 Currently I'm more focused on my work (I work for a company based here in Barcelona). But I'm open to new ideas, to merge with people with fresh ideas that want to be developed.
 
 # Ways to contact
-twitter: @xmarston
+twitter / X: @xmarston
+threads: @xmarston
